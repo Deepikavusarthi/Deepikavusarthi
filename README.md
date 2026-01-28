@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 ## Hi there, I'm Deepika 👋
 
 ### 👩‍💻 About Me
@@ -19,5 +17,3 @@ I am a student currently learning web development and version control using GitH
 
 ### 📫 Connect with me
 - GitHub: https://github.com/Deepikavusarthi
-
--->
